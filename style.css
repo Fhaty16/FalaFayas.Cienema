@@ -13,7 +13,6 @@ body {
   background-color: black;
   position: sticky;
   top: 0;
-  text-decoration: none;
 }
 .navbar-container {
   display: flex;
@@ -25,6 +24,7 @@ body {
 }
 .navbarmenu{
   color:white;
+  text-decoration: none;
 }
 
 .logo-container {
@@ -34,7 +34,6 @@ body {
 .logo {
   font-size: 30px;
   color: #4dbf00;
-  text-decoration: none;
 }
 
 .menu-container {
